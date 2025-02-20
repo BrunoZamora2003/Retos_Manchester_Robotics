@@ -1,5 +1,0 @@
-  File "/home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages/challenge1/process.py", line 17
-    self.smooth_filtro = 0.3s  # Factor de suavizado para reducir cambios bruscos
-                           ^
-SyntaxError: invalid decimal literal
-

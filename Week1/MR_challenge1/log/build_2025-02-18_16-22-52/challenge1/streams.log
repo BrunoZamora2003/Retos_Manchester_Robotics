@@ -1,0 +1,41 @@
+[0.465s] Invoking command in '/home/brunene/MR_challenge1/src/challenge1': PYTHONPATH=/home/brunene/MR_challenge1/build/challenge1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/challenge1 build --build-base /home/brunene/MR_challenge1/build/challenge1/build install --record /home/brunene/MR_challenge1/build/challenge1/install.log --single-version-externally-managed install_data
+[0.630s] running egg_info
+[0.630s] creating ../../build/challenge1/challenge1.egg-info
+[0.631s] writing ../../build/challenge1/challenge1.egg-info/PKG-INFO
+[0.631s] writing dependency_links to ../../build/challenge1/challenge1.egg-info/dependency_links.txt
+[0.631s] writing entry points to ../../build/challenge1/challenge1.egg-info/entry_points.txt
+[0.631s] writing requirements to ../../build/challenge1/challenge1.egg-info/requires.txt
+[0.631s] writing top-level names to ../../build/challenge1/challenge1.egg-info/top_level.txt
+[0.631s] writing manifest file '../../build/challenge1/challenge1.egg-info/SOURCES.txt'
+[0.632s] reading manifest file '../../build/challenge1/challenge1.egg-info/SOURCES.txt'
+[0.633s] writing manifest file '../../build/challenge1/challenge1.egg-info/SOURCES.txt'
+[0.633s] running build
+[0.633s] running build_py
+[0.633s] creating /home/brunene/MR_challenge1/build/challenge1/build
+[0.633s] creating /home/brunene/MR_challenge1/build/challenge1/build/lib
+[0.633s] creating /home/brunene/MR_challenge1/build/challenge1/build/lib/challenge1
+[0.633s] copying challenge1/signal_generator.py -> /home/brunene/MR_challenge1/build/challenge1/build/lib/challenge1
+[0.633s] copying challenge1/signal_processing.py -> /home/brunene/MR_challenge1/build/challenge1/build/lib/challenge1
+[0.633s] copying challenge1/__init__.py -> /home/brunene/MR_challenge1/build/challenge1/build/lib/challenge1
+[0.634s] running install
+[0.634s] running install_lib
+[0.634s] creating /home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages/challenge1
+[0.634s] copying /home/brunene/MR_challenge1/build/challenge1/build/lib/challenge1/signal_generator.py -> /home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages/challenge1
+[0.634s] copying /home/brunene/MR_challenge1/build/challenge1/build/lib/challenge1/signal_processing.py -> /home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages/challenge1
+[0.634s] copying /home/brunene/MR_challenge1/build/challenge1/build/lib/challenge1/__init__.py -> /home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages/challenge1
+[0.635s] byte-compiling /home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages/challenge1/signal_generator.py to signal_generator.cpython-310.pyc
+[0.635s] byte-compiling /home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages/challenge1/signal_processing.py to signal_processing.cpython-310.pyc
+[0.635s] byte-compiling /home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages/challenge1/__init__.py to __init__.cpython-310.pyc
+[0.635s] running install_data
+[0.635s] creating /home/brunene/MR_challenge1/install/challenge1/share/ament_index
+[0.635s] creating /home/brunene/MR_challenge1/install/challenge1/share/ament_index/resource_index
+[0.635s] creating /home/brunene/MR_challenge1/install/challenge1/share/ament_index/resource_index/packages
+[0.635s] copying resource/challenge1 -> /home/brunene/MR_challenge1/install/challenge1/share/ament_index/resource_index/packages
+[0.635s] copying package.xml -> /home/brunene/MR_challenge1/install/challenge1/share/challenge1
+[0.636s] running install_egg_info
+[0.637s] Copying ../../build/challenge1/challenge1.egg-info to /home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages/challenge1-0.0.0-py3.10.egg-info
+[0.638s] running install_scripts
+[0.655s] Installing signal_generator script to /home/brunene/MR_challenge1/install/challenge1/lib/challenge1
+[0.655s] Installing signal_processing script to /home/brunene/MR_challenge1/install/challenge1/lib/challenge1
+[0.655s] writing list of installed files to '/home/brunene/MR_challenge1/build/challenge1/install.log'
+[0.684s] Invoked command in '/home/brunene/MR_challenge1/src/challenge1' returned '0': PYTHONPATH=/home/brunene/MR_challenge1/build/challenge1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/brunene/MR_challenge1/install/challenge1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/challenge1 build --build-base /home/brunene/MR_challenge1/build/challenge1/build install --record /home/brunene/MR_challenge1/build/challenge1/install.log --single-version-externally-managed install_data
